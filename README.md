@@ -3,6 +3,12 @@
 **IELTS Calculator** — bu C# tilida yozilgan konsol dastur bo‘lib, foydalanuvchining IELTS imtihonidagi to‘rtta modul ballari asosida **Overall Band Score** ni avtomatik hisoblab beradi.
 
 ---
+## 🎬 Demo (How the app works)
+
+<p align="center">
+  <img src="IeltsCalculate.gif" alt="IELTS Calculator Demo" width="750">
+</p>
+
 
 ## 📌 Loyihaning vazifasi
 
